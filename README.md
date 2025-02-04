@@ -1,6 +1,6 @@
-#Autism Spectrum Disorder (ASD) Classification Using Support Vector Machine (SVM)
+# Autism Spectrum Disorder (ASD) Classification Using Support Vector Machine (SVM)
 
-Overview:
+Overview :
 This project aims to predict the presence of Autism Spectrum Disorder (ASD) in children based on various features, including social responsiveness, age, and other behavioral and medical conditions. A machine learning model using a Support Vector Machine (SVM) classifier is trained on a dataset, and predictions are made based on individual input data.
 
 Key Features:
